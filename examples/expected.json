@@ -1,0 +1,13 @@
+{
+  "header_columns": 2,
+  "bad_rows": [
+    {
+      "line": 3,
+      "columns": 1
+    },
+    {
+      "line": 4,
+      "columns": 3
+    }
+  ]
+}
